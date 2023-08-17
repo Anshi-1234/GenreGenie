@@ -45,8 +45,8 @@
 
 ```
 # clone it
-git clone https://https://github.com/ekagrashukla/GRANNY-GPT2-Based-Multiple_Genre-Story-Generator-Web-Application.git
-cd GRANNY-GPT2-Based-Multiple_Genre-Story-Generator-Web-Application
+git clone https://github.com/Anshi-1234/GenreGenie
+cd GenreGenie
 ```
 
 #### Run 

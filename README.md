@@ -1,13 +1,11 @@
 <h1 align="center">
   GRANNY
 </h1>
-
 <h4 align="center">A Web Application to generate multiple genre stories based on GPT2 Model</h4>
-
 </br>
 <hr/>
 
-## Sneak Peeks
+## Demo
 <h5> - Scary Story Generation</h5>
 <img src="demo/scary.gif" alt="Scary Story Generation" height ="70%" width = "70%"/>
 <h5> - Funny Story Generation</h5>

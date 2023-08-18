@@ -3,9 +3,6 @@
 </h1>
 
 <h4 align="center">A Web Application to generate multiple genre stories based on GPT2 Model</h4>
-<div align="center">
-  <sub>Built with ❤︎ | Inspired from the stories of my Granny 😉</sub>
-</div>
 
 </br>
 <hr/>
@@ -58,5 +55,4 @@ cd GenreGenie
 # Click on the Ngrok URL generated at the end of execution of last cell to access the Web App
 ```
 
-#### Please Star the Repository, if you find it interesting. 
 

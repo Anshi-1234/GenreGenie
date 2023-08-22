@@ -5,7 +5,7 @@
 </br>
 <hr/>
 
-<h5> - Scary Story Generation</h5>
+<h5> -Story Generation</h5>
   <li> Narrate Stories using Text to Speech.</li>
   <li> Download Stories as Text files.</li>
   <li> Get a globally sharable URL and QR code to share stories with anyone.</li>

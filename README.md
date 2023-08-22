@@ -5,15 +5,7 @@
 </br>
 <hr/>
 
-## Demo
 <h5> - Scary Story Generation</h5>
-<img src="demo/scary.gif" alt="Scary Story Generation" height ="70%" width = "70%"/>
-<h5> - Funny Story Generation</h5>
-<img src="demo/funny.gif" alt="Funny Story Generation" height ="70%" width = "70%"/>
-<h5> - Scifi Story Generation</h5>
-<img src="demo/scifi.gif" alt="Scifi Story Generation" height ="70%" width = "70%"/>
-<h5> - Other Useful Features</h5>
-<ul>
   <li> Narrate Stories using Text to Speech.</li>
   <li> Download Stories as Text files.</li>
   <li> Get a globally sharable URL and QR code to share stories with anyone.</li>

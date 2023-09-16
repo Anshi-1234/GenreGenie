@@ -39,10 +39,6 @@ Follow these steps to get started with GenreGenie:
 
 ![App Screenshot](https://i.ibb.co/XjVPDy1/image.png)
 
-* Open Goggle Colab and run the cells from cell 6 upto Finetuning the Downloaded Model on different text corpus.
-* This will add different checkpoints in your drive, downloaded them add into the folder give their path in the last cell where the flast app is created.
-* just run the CSS and JS files it will automatically create files in required folder.
-* Launch the Flask app to start generating stories and exploring the AI-powered capabilities on your localhost.
 ## Demo Video😍
 For Demo Video Kindly Click [here](https://drive.google.com/file/d/1dBCYxBKTmAGusuimPUU3H3zSuwfqUIkA/view?usp=sharing)
 

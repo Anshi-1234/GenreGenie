@@ -45,12 +45,7 @@ Follow these steps to get started with GenreGenie:
 * Launch the Flask app to start generating stories and exploring the AI-powered capabilities on your localhost.
 ## Demo Video😍
 For Demo Video Kindly Click [here](https://drive.google.com/file/d/1dBCYxBKTmAGusuimPUU3H3zSuwfqUIkA/view?usp=sharing)
-## Introduction Video😎
-For Intro Video Kindly Click [here](https://drive.google.com/file/d/1gFVqNO-7xRL2vF6reKMgZvLTNl1WeuPw/view?usp=sharing)
-## PPT Link😉
-For PPT Kindly Click [here](https://www.canva.com/design/DAFpSYYWYXw/GKs7Zha7lan47yrc5hyVyA/view?utm_content=DAFpSYYWYXw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## License
 This project is licensed under the **MIT License**, allowing you to use, modify, and distribute the code as you see fit.
-## Contact
-For any inquiries, suggestions, or support, feel free to reach out to us at **manvisinglaahh@gmail.com**
-# Every Story is worth telling✨✨✨!!!!
+

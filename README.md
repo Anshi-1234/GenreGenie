@@ -18,12 +18,7 @@ GenreGenie🧞 is an innovative project that harnesses the power of artificial i
 * **Share and Download**🔗: Easily share your generated stories with friends or download them for personal use.
 
 * **Grammar Checking**📝: Ensure your story is polished and error-free with the AI's built-in grammar checking feature.
-## Platfroms
-**GenreGenie**🧞 operates seamlessly on two platforms:
 
-* **Jupyter Notebook**: This platform is utilized for setting up the necessary infrastructure, such as downloading the required libraries, incorporating CSS and JavaScript files, and creating the Flask app to run the project.
-
-* **Google Colab**: Google Colab is employed for model fine-tuning and the creation of various checkpoints specific to different genres. These checkpoints, such as run1, run2, etc., aid in generating genre-specific stories.
 ## Getting Started
 Follow these steps to get started with GenreGenie:
 

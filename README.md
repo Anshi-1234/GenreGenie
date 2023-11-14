@@ -35,7 +35,7 @@ Follow these steps to get started with GenreGenie:
 ![App Screenshot](https://i.ibb.co/XjVPDy1/image.png)
 
 ## Demo Video😍
-For Demo Video Kindly Click [here](https://drive.google.com/file/d/1sKkL4XuBOQO5tCYPbExtvUbY2vumUGaA/view?usp=sharing)
+For Demo Video Kindly Click [here](https://drive.google.com/file/u/1/d/1H22dr5dcoK8k7f90-A9I8AQoccNSb7do/view?usp=sharing)
 
 ## License
 This project is licensed under the **MIT License**, allowing you to use, modify, and distribute the code as you see fit.
